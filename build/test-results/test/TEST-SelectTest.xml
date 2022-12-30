@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SelectTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-11T16:06:12" hostname="192.168.1.4" time="1.044">
+  <properties/>
+  <testcase name="testSelectChannel()" classname="SelectTest" time="1.044"/>
+  <system-out><![CDATA[result: 1000
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
